@@ -9,3 +9,6 @@ console.log("day2is complete");
 
 console.log("day3 is complete");
 console.log("done");
+
+console.log("hello world");
+console.log("thank you");
