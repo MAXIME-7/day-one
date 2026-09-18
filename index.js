@@ -7,3 +7,5 @@ console.log("thank you");
 console.log("hello world");
 console.log("day2is complete");
 
+console.log("day3 is complete");
+console.log("done");
